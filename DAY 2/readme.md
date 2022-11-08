@@ -33,9 +33,36 @@ x**3= x*x*x
 
 Arithmetic +, -, *, /, %, **,//
 Boolean True or False
+
+a=5
+ 
+a-=10  a=a-10
+
 Assignment
+=, +=, -=
 
 Comparison
+==, !=, >, <, >=, <=
+
+
 Logical
 
+
+not
+(reverse of a result)
+
+not jerusha is a man 
+
+Jerusha is a woman
+
+x=6
+
+x<5
+
+or
+ 
+x<10
+jerusha has 2 cats
+
+ONE NEEDS TO BE TRUE
 
