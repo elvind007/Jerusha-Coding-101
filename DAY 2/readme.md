@@ -44,9 +44,7 @@ Assignment
 Comparison
 ==, !=, >, <, >=, <=
 
-
 Logical
-
 
 not
 (reverse of a result)
