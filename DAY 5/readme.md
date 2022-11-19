@@ -41,3 +41,9 @@ for loop
    else:                  # else part of the loop
       print num, 'is a prime number'
 		break
+
+Control statements
+break
+continue
+pass
+

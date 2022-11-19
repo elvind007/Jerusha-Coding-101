@@ -1,5 +1,6 @@
-for num in range(3):
-   print('num :', num)
-   for i in range(5):
-      print('i :', i)
+   
+for var in range(21):
+   print(var)
+
+print("Good bye!")
 

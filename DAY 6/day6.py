@@ -1,4 +1,9 @@
-from filecmp import cmp
 
 
-print(cmp(1, 1))
+#updating string
+
+var1="Hi Jerusha"
+
+
+print(var1[:9] + ' Maben')
+print(var1)
